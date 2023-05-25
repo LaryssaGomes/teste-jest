@@ -20,9 +20,51 @@
       "data": "22/11/2022",
       "mes": "Novembro",
       "id": 3
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "100",
+      "data": "23/05/2023",
+      "mes": "Maio",
+      "id": 4
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "400",
+      "data": "23/05/2023",
+      "mes": "Maio",
+      "id": 5
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "600",
+      "data": "23/05/2023",
+      "mes": "Maio",
+      "id": 6
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "109",
+      "data": "23/05/2023",
+      "mes": "Maio",
+      "id": 7
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "12",
+      "data": "23/05/2023",
+      "mes": "Maio",
+      "id": 8
+    },
+    {
+      "transacao": "Depósito",
+      "valor": "3",
+      "data": "24/05/2023",
+      "mes": "Maio",
+      "id": 9
     }
   ],
   "saldo": {
-    "valor": 2000
+    "valor": 1015
   }
 }

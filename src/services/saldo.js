@@ -10,8 +10,8 @@ export async function buscaSaldo() {
 }
 
 export async function atualizaSaldo(novoSaldo) {
-  api
+ return api
     .put('/saldo', { valor: novoSaldo })
-    .then((resp) => console.log(resp.status))
-    .catch((err) => console.log(err));
+    .then((resp) => resp.status)
+    .catch(() => 'Erro na requisição');
 }
